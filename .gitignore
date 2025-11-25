@@ -21,7 +21,7 @@ __pycache__/
 # Virtual Environments / Conda
 # ---------------------------
 env/
-venv/
+.venv/
 *.env
 .conda/
 *.conda
